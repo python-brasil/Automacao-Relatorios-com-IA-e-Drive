@@ -3,6 +3,8 @@
 
 Este projeto é uma automação desenvolvida em Python que coleta arquivos de uma pasta do Google Drive, analisa os dados presentes nesses arquivos utilizando IA, e envia um relatório por e-mail com o conteúdo gerado. Todo o processo é realizado automaticamente, facilitando a análise de documentos de maneira rápida e eficiente.
 
+- Assista o Tutorial Completo aqui - [TUTORIAL DO PROJETO](https://youtu.be/N_PnXxLO8Lg)
+
 ## Funcionalidades
 
 - **Extração de Arquivos do Google Drive**: Conecta-se ao Google Drive e coleta arquivos armazenados em uma pasta específica.
